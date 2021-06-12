@@ -3,7 +3,7 @@
 
 - 🎓 Istanbul Technical University - Geomatics Engineering
 - 💬 Ask me about GIS/Web Map Development/Remote Sensing
-- 📫 Reach me on: [Linkedin](https://www.linkedin.com/in/dagdelenvolkan/)
+- 📫 Contact me on: [Linkedin](https://www.linkedin.com/in/dagdelenvolkan/)
 
 
 
